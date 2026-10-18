@@ -1,5 +1,6 @@
-<div align="center">
 
+<div align="center">
+<img width="2048" height="2048" alt="logo_bambupos" src="https://github.com/user-attachments/assets/642bda96-b7d8-4a39-a17e-c8b3e1756baf" />
 <img src="app/src/main/res/drawable/logo_bambupos.png" alt="Logo BambuPOS" width="140" />
 
 # 🐼 BambuPOS — Kasir, Struk Digital & Manajemen UMKM Pintar
