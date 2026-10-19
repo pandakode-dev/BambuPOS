@@ -21,11 +21,11 @@
 | Layar Kasir Pintar | Parkir Pesanan Meja | Konfirmasi Bayar & Diskon | Pratinjau Struk Digital | Stok, Grosir, & Label Rak | Laporan Laba & Buku Biaya |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | *(Tarik SS 1)* | *(Tarik SS 2)* | *(Tarik SS 3)* | *(Tarik SS 4)* | *(Tarik SS 5)* | *(Tarik SS 6)* |
-<img width="1080" height="2400" alt="Screenshot_20261019_061516" src="https://github.com/user-attachments/assets/feb6be26-01e7-4f44-a021-e8ad57abf313" />
-<img width="1080" height="2400" alt="Screenshot_20261019_061523" src="https://github.com/user-attachments/assets/993c29cf-1360-424d-a908-09edad3bd6df" />
-<img width="1080" height="2400" alt="Screenshot_20261019_061541" src="https://github.com/user-attachments/assets/0f800749-112f-419b-b567-867295e975fc" />
-<img width="1080" height="2400" alt="Screenshot_20261019_061622" src="https://github.com/user-attachments/assets/da81f7ed-208b-46c2-bcda-31dbdef1a26a" />
-<img width="1080" height="2400" alt="Screenshot_20261019_061636" src="https://github.com/user-attachments/assets/464e7d11-9e15-4042-ab64-dc1e322e2495" />
+<img width="216" height="480" alt="Screenshot_20261019_061516" src="https://github.com/user-attachments/assets/feb6be26-01e7-4f44-a021-e8ad57abf313" />
+<img width="216" height="480" alt="Screenshot_20261019_061523" src="https://github.com/user-attachments/assets/993c29cf-1360-424d-a908-09edad3bd6df" />
+<img width="216" height="480" alt="Screenshot_20261019_061541" src="https://github.com/user-attachments/assets/0f800749-112f-419b-b567-867295e975fc" />
+<img width="216" height="480" alt="Screenshot_20261019_061622" src="https://github.com/user-attachments/assets/da81f7ed-208b-46c2-bcda-31dbdef1a26a" />
+<img width="216" height="480" alt="Screenshot_20261019_061636" src="https://github.com/user-attachments/assets/464e7d11-9e15-4042-ab64-dc1e322e2495" />
 
 ---
 
